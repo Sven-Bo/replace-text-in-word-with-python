@@ -3,8 +3,7 @@ Are you tired of manually replacing text in multiple Word documents? Do you want
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/cUUjkEgnCjs/0.jpg)](https://youtu.be/cUUjkEgnCjs)
 
 
 ## About Me
